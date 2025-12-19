@@ -1,0 +1,12 @@
+[package]
+name = "mapper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+kernel-schema = { path = "../kernel-schema" }
+serde = { workspace = true }
+serde_json = { workspace = true }
+petgraph = { workspace = true }
+anyhow = { workspace = true }
+clap = { workspace = true }

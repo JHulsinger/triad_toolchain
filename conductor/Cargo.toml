@@ -1,0 +1,14 @@
+[package]
+name = "conductor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+kernel-schema = { path = "../kernel-schema" }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tokio = { workspace = true }
+sqlx = { workspace = true }
+anyhow = { workspace = true }
+async-trait = "0.1"
+futures = "0.3"
