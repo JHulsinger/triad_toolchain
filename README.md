@@ -1,4 +1,4 @@
-# RustOS Triad Toolchain 🦀
+# Rust Triad Toolchain 🦀
 
 **A language-agnostic, deterministic engine for porting large C codebases.**
 
