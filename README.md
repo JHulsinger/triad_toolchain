@@ -6,6 +6,13 @@
 
 The Triad Toolchain is a "Systems Agent" architecture designed to refactor operating system kernels (or any large C legacy codebase) into modern languages like Rust, Go, or Zig. It optimizes for **token efficiency**, **correctness**, and **dependency management**.
 
+
+## Demo
+
+![Triad Toolchain Demo](assets/demo.gif)
+
+*Slice → Map → Conduct: 4 functions extracted, dependency graph built, and topological build order generated in under 1 second.*
+
 ---
 
 ## 🚀 Why This Toolchain?
