@@ -2,6 +2,8 @@
 
 **A language-agnostic, deterministic engine for porting large C codebases.**
 
+![Triad Toolchain demo](assets/triad-toolchain-demo.gif)
+
 The Triad Toolchain is a "Systems Agent" architecture designed to refactor operating system kernels (or any large C legacy codebase) into modern languages like Rust, Go, or Zig. It optimizes for **token efficiency**, **correctness**, and **dependency management**.
 
 ---
